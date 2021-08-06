@@ -1,4 +1,4 @@
-# Lorenzo Natali
+# 👤 Lorenzo Natali
 
 *Front-end Expert, specialized on GIS, ❤️ love opensource and problem solving. ❤️*
 
