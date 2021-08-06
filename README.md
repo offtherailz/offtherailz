@@ -1,12 +1,17 @@
 # 👤 Lorenzo Natali
 
-*Front-end Expert, specialized on GIS, ❤️ love opensource and problem solving. ❤️*
+<a href="https://mapstore.readthedocs.io/">
+  <img align="right" height="100"   src="https://user-images.githubusercontent.com/1279510/128498201-054a2cbe-6fca-4425-86b4-513896e120af.png" />
+</a>
 
-Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) project.
+Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). 
+Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) project.
 
-[![GeoSolutions Logo](https://www.geosolutionsgroup.com/wp-content/themes/zaki/img/logo.png?x27429)](https://www.geosolutionsgroup.com/)
 
-[![MapStore Logo](https://user-images.githubusercontent.com/1279510/128498201-054a2cbe-6fca-4425-86b4-513896e120af.png)](https://mapstore.readthedocs.io/)
+*Front-end Expert, specialized on GIS, ❤️ love opensource and problem solving.*
+
+
+
 
 ## 📊 Statistics 
 
@@ -49,6 +54,18 @@ Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). Technic
 - 🌱 I’m currently learning japanese language 🇯🇵
 - 🎸 Love rock music 
 
+
+
+
+<p align="center">
+<a  href="https://www.geosolutionsgroup.com/" >
+  <img  src="https://www.geosolutionsgroup.com/wp-content/themes/zaki/img/logo.png?x27429" />
+</a>
+</p>
+
 <hr/>
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40mapstore2)](https://twitter.com/mapstore2)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40loernzonatali)](https://twitter.com/loernzonatali)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=offtherailz.offtherailz)
+
