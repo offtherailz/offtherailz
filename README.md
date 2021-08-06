@@ -8,7 +8,7 @@ Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). Technic
 
 [![MapStore Logo](https://user-images.githubusercontent.com/1279510/128498201-054a2cbe-6fca-4425-86b4-513896e120af.png)](https://mapstore.readthedocs.io/)
 
-## Statistics 
+## 📊 Statistics 
 
 ![Offtherailz's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtherailz&show_icons=true&count_private=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=offtherailz&theme=material-palenight&include_forks=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
