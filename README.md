@@ -8,12 +8,6 @@ Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). Technic
 
 [![MapStore Logo](https://user-images.githubusercontent.com/1279510/128498201-054a2cbe-6fca-4425-86b4-513896e120af.png)](https://mapstore.readthedocs.io/)
 
-#### more about me...
-
-- 🐧 Proud linux user
-- 🌱 I’m currently learning japanese language 🇯🇵
-- 🎸 Love rock music 
-
 ## Statistics 
 
 ![Offtherailz's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtherailz&show_icons=true&count_private=true&theme=material-palenight)
@@ -48,6 +42,12 @@ Software engineer at [GeoSolutions](https://www.geosolutionsgroup.com/). Technic
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/lorenzo-natali-5ba71137/es?trk=people-guest_people_search-card)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/offtherailz) *but you are already hear, so... 🤔
+
+## 💬 more about me...
+
+- 🐧 Proud linux user
+- 🌱 I’m currently learning japanese language 🇯🇵
+- 🎸 Love rock music 
 
 <hr/>
 
