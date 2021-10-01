@@ -16,7 +16,8 @@ Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) proje
 ## 📊 Statistics 
 
 ![Offtherailz's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtherailz&show_icons=true&count_private=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=offtherailz&theme=material-palenight&include_forks=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- not working anymore -->
+<!-- [![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=offtherailz&theme=material-palenight&include_forks=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## ⚡ Technologies
