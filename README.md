@@ -67,6 +67,6 @@ Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) proje
 <hr/>
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40mapstore2)](https://twitter.com/mapstore2)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40lorenzonatali)](https://twitter.com/loerenzonatali)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40lorenzonatali)](https://twitter.com/lorenzonatali)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=offtherailz.offtherailz)
 
