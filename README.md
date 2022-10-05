@@ -11,15 +11,6 @@ Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) proje
 *Front-end Expert, specialized on GIS, ❤️ love opensource and problem solving.*
 
 
-
-
-## 📊 Statistics 
-
-![Offtherailz's GitHub stats](https://github-readme-stats.vercel.app/api?username=offtherailz&show_icons=true&count_private=true&theme=material-palenight)
-<!-- not working anymore -->
-<!-- [![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=offtherailz&theme=material-palenight&include_forks=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
