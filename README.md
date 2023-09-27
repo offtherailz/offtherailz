@@ -47,7 +47,7 @@ Technical Lead of [MapStore](https://github.com/geosolutions-it/MapStore2) proje
 - 🎸 Love rock music 
 
 
-
+[![An image of @offtherailz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/offtherailz)](https://holopin.io/@offtherailz)
 
 <p align="center">
 <a  href="https://www.geosolutionsgroup.com/" >
